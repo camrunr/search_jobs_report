@@ -8,10 +8,9 @@
   <fieldset submitButton="false">
     <input type="dropdown" token="dd_env">
       <label>Environment</label>
-      <choice value="cdldvsplvsh0001">CDL</choice>
-      <choice value="dc1stsplvsh0001">IAT</choice>
-      <choice value="dc1prsplvsh0005">Prod</choice>
-      <choice value="dc2prsplvsh0001">ESNET</choice>
+      <choice value="searchhead1">Dev</choice>
+      <choice value="searchhead2">Staging</choice>
+      <choice value="searchhead3">Production</choice>
     </input>
   </fieldset>
   <row>
